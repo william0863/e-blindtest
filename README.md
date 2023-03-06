@@ -8,7 +8,7 @@ Click **[here](https://aquamarine-stardust-2e9bee.netlify.app/)** to play !
 E-Blindtest is a web application that tests your knowledge of music.
 It presents a series of multiple-choice questions about music and awards points for correct answers.
 
-## Features:
+## Features
 
 -   Multiple-choice questions about music
 -   Audio playback of music clips

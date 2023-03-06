@@ -1,7 +1,7 @@
 # E-Blindtest
 
 **_How well do you know your music classics?_**\
-Click **[here](https://aquamarine-stardust-2e9bee.netlify.app/)** to play !
+Click **[here](https://golden-puffpuff-f0a527.netlify.app/)** to play !
 
 ## Introduction
 

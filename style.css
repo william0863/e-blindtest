@@ -202,9 +202,12 @@ h1 {
 h2 {
   font-size: 3.2rem;
   margin-bottom: 3.5rem;
+  margin-top: 2rem;
 }
 
 h3 {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
   font-size: 2.5rem;
 }
 
@@ -270,6 +273,11 @@ h4 {
   cursor: not-allowed;
   box-shadow: none;
   transform: none;
+}
+
+#holbertonimg {
+  width: 400px;
+  height: 200px;
 }
 
 #highscore-btn {

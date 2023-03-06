@@ -27,14 +27,14 @@ It presents a series of multiple-choice questions about music and awards points 
 -   HTML, CSS, JavaScript
 
 
-### Improvements/fixes to be worked on
+## Improvements/fixes to be worked on
 
 -   Audio player animations link to audio songs
 -   Resize game containers into smaller ones
 -   CSS cleanup
 -   Contact form
 
-### New features to be added
+## New features to be added
 
 -   Sign up
 -   Login/Logout

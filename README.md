@@ -8,6 +8,9 @@ Click **[here](https://golden-puffpuff-f0a527.netlify.app/)** to play !
 E-Blindtest is a web application that tests your knowledge of music.
 It presents a series of multiple-choice questions about music and awards points for correct answers.
 
+My [LinkedIn](https://www.linkedin.com/in/william-granger-874b61189/)
+My app
+
 ## Features
 
 -   Multiple-choice questions about music
@@ -16,13 +19,34 @@ It presents a series of multiple-choice questions about music and awards points 
 -   Scoreboard showing current score
 -   Local storage of the most recent score
 
-## Getting Started
+## Installation
 Even if the project is not online anymore, you can still play!
 Follow these steps :
 
 -   Clone the repository
 -   Open index.html in your browser
 -   Start playing the quiz
+
+## Usage
+Even if the project is not online anymore, you can still play!
+Follow these steps :
+
+-   zzzzzzzzzzzzzzzzzzzzzzzzz
+-   zzzzzzzzzzzzzzzzzzzzzzzzz
+-   zzzzzzzzzzzzzzzzzzzzzzzzz
+
+## Contributing
+Contributions are welcome! If you would like to contribute to the project, please follow the standard git workflow:
+
+-   Fork the repository
+-   Create a new branch for your changes
+-   Make your changes
+-   Commit your changes and push to your branch
+-   Create a pull request
+
+## Related Projects
+
+-   [High level programming](https://github.com/william0863/holbertonschool-higher_level_programming)
 
 ## Technologies and tools used
 

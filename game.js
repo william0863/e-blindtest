@@ -56,48 +56,19 @@ let score = 0;
 let questionCounter = 0;
 let availableQuestions = [];
 
-let questions = [
-  {
-    question: "What is 1+1?",
-    choice1: "2",
-    choice2: "4",
-    choice3: "Mariah Carey",
-    choice4: "29",
-    answer: 1,
-  },
-  {
-    question: "What is 2+2?",
-    choice1: "2",
-    choice2: "4",
-    choice3: "21",
-    choice4: "Beyoncé",
-    answer: 2,
-  },
-  {
-    question: "What is 3+3?",
-    choice1: "Rihanna",
-    choice2: "4",
-    choice3: "21",
-    choice4: "6",
-    answer: 4,
-  },
-  {
-    question: "What is 4+4?",
-    choice1: "2",
-    choice2: "Nicki Minaj",
-    choice3: "8",
-    choice4: "29",
-    answer: 3,
-  },
-  {
-    question: "What is 5+5?",
-    choice1: "2",
-    choice2: "10",
-    choice3: "Wejdene",
-    choice4: "29",
-    answer: 2,
-  },
-];
+let questions = [];
+
+fetch("questions.json")
+  .then((res) => {
+    return res.json();
+  })
+  .then((loadedQuestions) => {
+    questions = loadedQuestions;
+    startGame();
+  })
+  .catch((err) => {
+    console.error(err);
+  });
 
 const SCORE_POINTS = 100;
 const MAX_QUESTIONS = 5;
@@ -110,7 +81,7 @@ startGame = () => {
 };
 
 getNewQuestion = () => {
-  if (availableQuestions.length === 0 || questionCounter > MAX_QUESTIONS) {
+  if (availableQuestions.length === 0 || questionCounter >= MAX_QUESTIONS) {
     localStorage.setItem("mostRecentScore", score);
 
     return window.location.assign("/end.html");
@@ -161,7 +132,5 @@ incrementScore = (num) => {
   score += num;
   scoreText.innerText = score;
 };
-
-startGame();
 
 // VOLUME

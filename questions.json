@@ -1,0 +1,123 @@
+[
+  {
+    "song": "ragnbone-human-30s.mp3",
+    "question": "Who is singing?",
+    "choice1": "John Newman",
+    "choice2": "Rag'n'Bone Man",
+    "choice3": "Imagine Dragons",
+    "choice4": "Capital Cities",
+    "answer": 2
+  },
+  {
+    "question": "Who is singing?",
+    "choice1": "Bruno Mars",
+    "choice2": "LMFAO",
+    "choice3": "Macklemore",
+    "choice4": "Ed Sheeran",
+    "answer": 1
+  },
+  {
+    "question": "Who is singing?",
+    "choice1": "Pharrell Williams",
+    "choice2": "Lil Nas X",
+    "choice3": "Daft Punk",
+    "choice4": "Black Eyed Peas",
+    "answer": 3
+  },
+  {
+    "question": "Who is singing?",
+    "choice1": "Travis Scott",
+    "choice2": "Lil Uzi Vert",
+    "choice3": "Juice WRLD",
+    "choice4": "ASAP Rocky",
+    "answer": 2
+  },
+  {
+    "question": "Who is singing?",
+    "choice1": "Post Malone",
+    "choice2": "Justin Bieber",
+    "choice3": "Eminem",
+    "choice4": "Justin Timberlake",
+    "answer": 4
+  },
+  {
+    "question": "Who is singing?",
+    "choice1": "Indochine",
+    "choice2": "Grégoire",
+    "choice3": "Renan Luce",
+    "choice4": "Calogero",
+    "answer": 4
+  },
+  {
+    "question": "Who is singing?",
+    "choice1": "Foster The People",
+    "choice2": "Radiohead",
+    "choice3": "Coldplay",
+    "choice4": "Joji",
+    "answer": 1
+  },
+  {
+    "question": "Who is singing?",
+    "choice1": "Rema",
+    "choice2": "Tom Odell",
+    "choice3": "Aaron Smith",
+    "choice4": "Burna Boy",
+    "answer": 3
+  },
+  {
+    "question": "Who is singing?",
+    "choice1": "Calvin Harris",
+    "choice2": "The Kid LAROI",
+    "choice3": "Ed Sheeran",
+    "choice4": "Tom Odell",
+    "answer": 2
+  },
+  {
+    "question": "Who is singing?",
+    "choice1": "Rammstein",
+    "choice2": "System Of A Down",
+    "choice3": "Bring Me the Horizon",
+    "choice4": "Linkin Park",
+    "answer": 4
+  },
+  {
+    "question": "Who is singing?",
+    "choice1": "Red Hot Chili Peppers",
+    "choice2": "Metallica",
+    "choice3": "ACDC",
+    "choice4": "Nirvana",
+    "answer": 1
+  },
+  {
+    "question": "Who is singing?",
+    "choice1": "Nicki Minaj",
+    "choice2": "Rihanna",
+    "choice3": "Mariah Carey",
+    "choice4": "Beyoncé",
+    "answer": 2
+  },
+  {
+    "question": "Who is singing?",
+    "choice1": "Tupac",
+    "choice2": "BIG",
+    "choice3": "Ice Cube",
+    "choice4": "Jay-Z",
+    "answer": 3
+  },
+  {
+    "question": "Who is singing?",
+    "choice1": "Adele",
+    "choice2": "Whitney Houston",
+    "choice3": "Amy Winehouse",
+    "choice4": "Celine Dion",
+    "answer": 3
+  },
+  {
+    "question": "Who is singing?",
+    "choice1": "Neyo",
+    "choice2": "The Weekend",
+    "choice3": "Drake",
+    "choice4": "Chris Brown",
+    "answer": 4
+  }
+]

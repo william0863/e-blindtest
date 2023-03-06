@@ -17,6 +17,8 @@ It presents a series of multiple-choice questions about music and awards points 
 -   Local storage of the most recent score
 
 ## Getting Started
+Even if the project is not online anymore, you can still play!
+Follow these steps :
 
 -   Clone the repository
 -   Open index.html in your browser

@@ -98,10 +98,17 @@ getNewQuestion = () => {
     const number = choice.dataset["number"];
     choice.innerText = currentQuestion["choice" + number];
   });
+  // +
+  const audio = new Audio(`./audio/${currentQuestion.song}`);
+  audio.play();
 
   availableQuestions.splice(questionsIndex, 1);
 
   acceptingAnswers = true;
+  // +
+  audio.addEventListener("ended", () => {
+    getNewQuestion();
+  });
 };
 
 choices.forEach((choice) => {
@@ -132,5 +139,3 @@ incrementScore = (num) => {
   score += num;
   scoreText.innerText = score;
 };
-
-// VOLUME

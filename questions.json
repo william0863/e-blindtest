@@ -9,6 +9,7 @@
     "answer": 2
   },
   {
+    "song": "brunomars-uptownfunk-30s.mp3",
     "question": "Who is singing?",
     "choice1": "Bruno Mars",
     "choice2": "LMFAO",
@@ -17,6 +18,7 @@
     "answer": 1
   },
   {
+    "song": "daftpunk-getlucky-30s.mp3",
     "question": "Who is singing?",
     "choice1": "Pharrell Williams",
     "choice2": "Lil Nas X",
@@ -25,6 +27,7 @@
     "answer": 3
   },
   {
+    "song": "liluzivert-xotourllif3-30s.mp3",
     "question": "Who is singing?",
     "choice1": "Travis Scott",
     "choice2": "Lil Uzi Vert",
@@ -33,6 +36,7 @@
     "answer": 2
   },
   {
+    "song": "justintimberlake-crymeariver-30s.mp3",
     "question": "Who is singing?",
     "choice1": "Post Malone",
     "choice2": "Justin Bieber",
@@ -41,6 +45,7 @@
     "answer": 4
   },
   {
+    "song": "calogero-enapesanteur-30s.mp3",
     "question": "Who is singing?",
     "choice1": "Indochine",
     "choice2": "Grégoire",
@@ -49,6 +54,7 @@
     "answer": 4
   },
   {
+    "song": "fosterthepeople-pumpedupkicks-30s.mp3",
     "question": "Who is singing?",
     "choice1": "Foster The People",
     "choice2": "Radiohead",
@@ -57,6 +63,7 @@
     "answer": 1
   },
   {
+    "song": "aaronsmith-dancin-30s.mp3",
     "question": "Who is singing?",
     "choice1": "Rema",
     "choice2": "Tom Odell",
@@ -65,6 +72,7 @@
     "answer": 3
   },
   {
+    "song": "thekidlaroi-stay-30s.mp3",
     "question": "Who is singing?",
     "choice1": "Calvin Harris",
     "choice2": "The Kid LAROI",
@@ -73,6 +81,7 @@
     "answer": 2
   },
   {
+    "song": "linkinpark-numb-30s.mp3",
     "question": "Who is singing?",
     "choice1": "Rammstein",
     "choice2": "System Of A Down",
@@ -81,6 +90,7 @@
     "answer": 4
   },
   {
+    "song": "rhcp-cantstop-30s.mp3",
     "question": "Who is singing?",
     "choice1": "Red Hot Chili Peppers",
     "choice2": "Metallica",
@@ -89,6 +99,7 @@
     "answer": 1
   },
   {
+    "song": "rihanna-wherehaveyoubeen-30s.mp3",
     "question": "Who is singing?",
     "choice1": "Nicki Minaj",
     "choice2": "Rihanna",
@@ -97,6 +108,7 @@
     "answer": 2
   },
   {
+    "song": "icecube-itwasagoodday-30s.mp3",
     "question": "Who is singing?",
     "choice1": "Tupac",
     "choice2": "BIG",
@@ -105,6 +117,7 @@
     "answer": 3
   },
   {
+    "song": "amywinehouse-backtoblack-30s.mp3",
     "question": "Who is singing?",
     "choice1": "Adele",
     "choice2": "Whitney Houston",
@@ -113,6 +126,7 @@
     "answer": 3
   },
   {
+    "song": "chrisbrown-noguidance-30s.mp3",
     "question": "Who is singing?",
     "choice1": "Neyo",
     "choice2": "The Weekend",

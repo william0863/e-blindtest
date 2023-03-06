@@ -1,3 +1,14 @@
+.main {
+  color: white;
+  margin: 0 auto;
+  position: relative;
+}
+
+.bottom-p {
+  margin-top: 1rem;
+  font-size: 1.2rem;
+}
+
 .main-container {
   display: grid;
   grid-template-columns: 1fr 1fr;
@@ -12,7 +23,8 @@
   justify-self: start;
   margin-left: 20px;
   color: white;
-  width: 80%;
+  width: 90%;
+  align-items: center;
 }
 
 .main-content h1 {
@@ -66,7 +78,6 @@
 } */
 
 .main-img-container {
-  text-align: left;
   text-indent: 10%;
   border-radius: 4px;
   color: white;
@@ -99,7 +110,7 @@
     grid-template-columns: auto;
     align-items: center;
     justify-self: center;
-    width: 90%;
+    width: 80%;
     margin: 0 auto;
     height: 90vh;
     background-color: ;

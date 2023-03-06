@@ -28,12 +28,8 @@ Follow these steps :
 -   Start playing the quiz
 
 ## Usage
-Even if the project is not online anymore, you can still play!
-Follow these steps :
 
--   zzzzzzzzzzzzzzzzzzzzzzzzz
--   zzzzzzzzzzzzzzzzzzzzzzzzz
--   zzzzzzzzzzzzzzzzzzzzzzzzz
+-   You just need to connect, you dont need any special configuration or special settings
 
 ## Contributing
 Contributions are welcome! If you would like to contribute to the project, please follow the standard git workflow:

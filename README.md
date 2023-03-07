@@ -10,6 +10,7 @@ It presents a series of multiple-choice questions about music and awards points 
 
 My **[LinkedIn](https://www.linkedin.com/in/william-granger-874b61189/)**
 My **[app](https://legendary-concha-4b2575.netlify.app/)**
+My **[article](https://www.linkedin.com/feed/update/urn:li:activity:7038644099280773120/)** about this project 
 
 ## Features
 

@@ -1,5 +1,7 @@
 # E-Blindtest
+![alt text](https://image.noelshack.com/fichiers/2023/10/2/1678164846-image-2023-03-07-055401579.jpg)
 
+  
 **_How well do you know your music classics?_**\
 Click **[here](https://legendary-concha-4b2575.netlify.app/)** to play !
 
